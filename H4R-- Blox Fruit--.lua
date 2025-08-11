@@ -1,4 +1,4 @@
--- discord.gg/tboyroblox
+--discord
 
 
 shared.LoaderTitle = "Đăng ký kênh t đi bọn kia";
@@ -9329,3 +9329,4 @@ v14:Notify({
     Duration = 10
 
 });
+
