@@ -1,7 +1,7 @@
 -- discord.gg/
 
 
-shared.LoaderTitle = "Đăng Ký Kênh Tôi ";
+shared.LoaderTitle = "";
 shared.LoaderKeyFrames = {
     [1] = {
         1,
@@ -9329,6 +9329,7 @@ v14:Notify({
     Duration = 10
 
 });
+
 
 
 
