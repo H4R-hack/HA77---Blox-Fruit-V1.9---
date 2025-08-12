@@ -96,10 +96,10 @@ GetKeyButton.Parent = frame
 --------------------------------------------------------------------------
 SubmitButton.MouseButton1Click:Connect(function()
     local KeySystem = KeySystem.Text
-    if KeySystem == "Your Key" then   
+    if KeySystem == "7051824Afdtag3723180sfDErlarsjaDEVLOPAC" then   
 screenGui:Destroy()
 
---Your Script
+--loadstring(game:HttpGet("https://raw.githubusercontent.com/H4R-hack/HA77---Blox-Fruit-V1.9---/refs/heads/main/TBoyRobloxBF.lua.txt"))()
   
   end
 end)
